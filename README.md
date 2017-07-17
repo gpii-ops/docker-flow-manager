@@ -1,3 +1,6 @@
+**DEPRECATED**: The settings that this image manages are now available through environment variables in [GPII/universal](https://github.com/GPII/universal).
+
+
 # GPII Flow Manager Dockerfile - Ansible version
 
 Builds a GPII Flow Manager Docker container image. This image is built using the [Ansible role](https://github.com/gpii-ops/ansible-flow-manager).
